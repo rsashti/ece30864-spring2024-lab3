@@ -1,0 +1,1 @@
+a.) In an Agile environment, the product owner is essentially the leader of the team. They oversee the team's tasks and their development, and ensures that everyone on the team is able to complete their tasks in a timely and proficient manner. In a non-Agile environment like a waterfall methodology, the equivalent role to the product owner is the project manager.
